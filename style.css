@@ -1,0 +1,125 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
+.hello{
+    
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+}
+.orange{
+    color: deeppink;
+}
+.div1{
+    width: 40%;
+    height: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+
+}
+.div1 img{
+    width: 100%;
+}
+.bio{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repate;
+
+}
+h1{
+    margin-top: 50px;
+    
+}
+.div1 p{
+    text-align: left;
+}
+.link-button{
+    margin-left: 0%;
+    background-color: deeppink;
+    padding: 12px 30px;
+    border-radius: 10px;
+    
+}
+h2{
+    margin-top: 50px;
+    text-align: center;
+}
+.latest{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+
+}
+.latest h1{
+    text-align: center;
+}
+.pic{
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+}
+
+
+.pic img{
+    width:100%;
+}
+.last-sec{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.last-sec h1{
+    text-align: center;
+}
+
+h3{
+    
+    margin-top: 50px;
+}
+h5{
+    margin-top: 0px; 
+    padding-top: 0px;
+    color: dimgray;
+}
+.gry{
+    color: dimgray;
+    font-weight: 100;
+}
+
+p{
+    text-align: center;
+    color: lightslategrey;
+    font-size: 25px;
+}
+.last{
+    margin-left: 25%;
+    width: 50%;
+    height: 200px;
+    background-color: deeppink;
+    border-radius: 15px;
+
+}
+.cntr{
+    text-align: center;
+    
+    padding-top: 20px;
+    font-size: 15px;
+}
+h6{
+    color: white;
+}
+a{
+    margin-left: 33%;
+    color: white;
+    padding-top: 7px;
+    font-weight: bold;
+    text-decoration: none;
+}
+footer p{
+    font-size: 10px;
+    color: lightgray;
+}
